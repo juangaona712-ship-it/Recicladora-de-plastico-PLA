@@ -1,5 +1,6 @@
  # 🧃 <span style="color:#2E8B57;">Plasticos PLA</span>
 
+<!-- Barra de navegación interna -->
 <p style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; background:#0f172a; padding:10px 12px; border-radius:8px;">
   <span style="color:#e2e8f0; font-weight:600; margin-right:6px;">Plasticos PLA</span>
   <a href="#intro" style="text-decoration:none; color:#0ea5e9; background:#082f49; padding:6px 10px; border-radius:6px;">🏁 Introducción</a>
@@ -184,4 +185,5 @@ El PLA es uno de los termoplásticos más usados en impresión 3D por su facilid
     <a href="https://sicnova3d.com/blog/experiencias-3d/que-es-el-pla-en-impresion-3d-y-para-que-se-utiliza/" target="_blank" style="text-decoration:none; color:#22c55e;">🔗 Abrir artículo</a>
   </li>
 </ul>
+
 
