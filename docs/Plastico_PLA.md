@@ -1,12 +1,5 @@
-<!-- =========================
-  Plasticos-PLA.md
-  Estructura en Markdown + HTML (compatible con GitHub/VS Code)
-  - Reemplaza los enlaces de imagen (#) por rutas reales (/docs/recursos/...)
-  - Mantén los estilos inline para portabilidad sin CSS externo
-========================== -->
 
-<!-- Barra de navegación interna -->
-<p style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; background:#0f172a; padding:10px 12px; border-radius:8px;">
+<p style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; background:#819C07; padding:10px 12px; border-radius:8px;">
   <span style="color:#e2e8f0; font-weight:600; margin-right:6px;">Plasticos PLA</span>
   <a href="#intro" style="text-decoration:none; color:#0ea5e9; background:#082f49; padding:6px 10px; border-radius:6px;">🏁 Introducción</a>
   <a href="#propiedades" style="text-decoration:none; color:#0ea5e9; background:#082f49; padding:6px 10px; border-radius:6px;">📊 Propiedades</a>
@@ -191,10 +184,4 @@ El PLA es uno de los termoplásticos más usados en impresión 3D por su facilid
   </li>
 </ul>
 
-<!-- Footer pequeño -->
-<hr style="border:0; border-top:1px solid #1f2937; margin:24px 0;">
-<p style="font-size:0.9rem; color:#9ca3af;">
-  Archivo listo para agregar imágenes en las secciones marcadas (#). Mantén este archivo en docs/ y recuerda actualizar el índice o enlaces de navegación del proyecto si aplica.
-</p>
 
-hola
