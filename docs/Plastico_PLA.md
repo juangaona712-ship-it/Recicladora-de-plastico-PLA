@@ -196,3 +196,5 @@ El PLA es uno de los termoplásticos más usados en impresión 3D por su facilid
 <p style="font-size:0.9rem; color:#9ca3af;">
   Archivo listo para agregar imágenes en las secciones marcadas (#). Mantén este archivo en docs/ y recuerda actualizar el índice o enlaces de navegación del proyecto si aplica.
 </p>
+
+hola
