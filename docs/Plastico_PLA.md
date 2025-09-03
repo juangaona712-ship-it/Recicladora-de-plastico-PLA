@@ -1,5 +1,7 @@
+ # 🧃 <span style="color:#2E8B57;">Plasticos PLA</span>
 
-<p style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; background:#819C07; padding:10px 12px; border-radius:8px;">
+<p style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; background:#0f172a; padding:10px 12px; border-radius:8px;">
+  <span style="color:#e2e8f0; font-weight:600; margin-right:6px;">Plasticos PLA</span>
   <a href="#intro" style="text-decoration:none; color:#0ea5e9; background:#082f49; padding:6px 10px; border-radius:6px;">🏁 Introducción</a>
   <a href="#propiedades" style="text-decoration:none; color:#0ea5e9; background:#082f49; padding:6px 10px; border-radius:6px;">📊 Propiedades</a>
   <a href="#limitaciones" style="text-decoration:none; color:#0ea5e9; background:#082f49; padding:6px 10px; border-radius:6px;">⚠️ Limitaciones</a>
@@ -9,7 +11,7 @@
 </p>
 
 <!-- Título -->
- # 🧃 <span style="color:#2E8B57;">Plasticos PLA</span>
+<h1 id="intro" style="color:#22c55e; margin-top:18px;">Plástico PLA</h1>
 
 <p style="font-size:1.02rem; line-height:1.55;">
 El PLA es uno de los termoplásticos más usados en impresión 3D por su facilidad de procesado y su origen en recursos renovables como almidón de maíz, raíces de tapioca o caña de azúcar; correctamente almacenado entre 15–25 °C puede conservarse al menos 12 meses. <em>Inodoro, baja inflamabilidad y con apariencia cercana al PET</em>, es adecuado para prototipos y piezas estéticas con buena definición. 
@@ -182,5 +184,4 @@ El PLA es uno de los termoplásticos más usados en impresión 3D por su facilid
     <a href="https://sicnova3d.com/blog/experiencias-3d/que-es-el-pla-en-impresion-3d-y-para-que-se-utiliza/" target="_blank" style="text-decoration:none; color:#22c55e;">🔗 Abrir artículo</a>
   </li>
 </ul>
-
 
