@@ -1,6 +1,6 @@
 
 <p style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; background:#819C07; padding:10px 12px; border-radius:8px;">
-  <span style="color:#e2e8f0; font-weight:600; margin-right:6px;">Plasticos PLA</span>
+  # 🧃 <span style="color:#2E8B57;">Plasticos PLA</span>
   <a href="#intro" style="text-decoration:none; color:#0ea5e9; background:#082f49; padding:6px 10px; border-radius:6px;">🏁 Introducción</a>
   <a href="#propiedades" style="text-decoration:none; color:#0ea5e9; background:#082f49; padding:6px 10px; border-radius:6px;">📊 Propiedades</a>
   <a href="#limitaciones" style="text-decoration:none; color:#0ea5e9; background:#082f49; padding:6px 10px; border-radius:6px;">⚠️ Limitaciones</a>
